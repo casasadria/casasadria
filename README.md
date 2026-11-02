@@ -1,40 +1,157 @@
-# Hola, mi nombre es Adrià Casas 👋
-### Programador Full Stack
+<!-- ══════════════════════════ CABECERA ══════════════════════════ -->
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Adrià Casas · Full-Stack Web & Mobile Developer" />
+</p>
 
-![https://github.com/casasadria](https://raw.githubusercontent.com/casasadria/casasadria/main/casasadria_banner.png)
+<p align="center">
+  <a href="https://adriacasas.es">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3DDC84&center=true&vCenter=true&width=620&lines=PHP+%C2%B7+JavaScript+%C2%B7+Kotlin+%C2%B7+Swift;Construyo+apps+que+se+usan+en+la+calle+%F0%9F%9A%9B;AWS+%C2%B7+MySQL+8+%C2%B7+Cloudflare+%C2%B7+OpenVPN;La+seguridad+no+es+el+%C3%BAltimo+paso+%F0%9F%94%92" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@casas_adria-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/casas_adria)
-![GitHub Followers](https://img.shields.io/github/followers/casasadria?style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adria_Casas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/adriàcasasllorens/)
+<p align="center">
+  <a href="https://adriacasas.es"><img src="https://img.shields.io/badge/Portfolio-adriacasas.es-00C7B7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/casasadria"><img src="https://img.shields.io/badge/LinkedIn-casasadria-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/casas_adria"><img src="https://img.shields.io/badge/Instagram-@casas__adria-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:adriacasas48@gmail.com"><img src="https://img.shields.io/badge/Email-adriacasas48-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=casasadria&style=flat-square&color=2c5364&label=visitas" />
+</p>
 
+<!-- ══════════════════════════ WHOAMI ══════════════════════════ -->
 
-Soy Desarrollador de Aplicaciones Multiplataforma.
+```bash
+adria@banyoles:~$ whoami
+```
 
-Mi nombre es Adrià Casas Llorens,
-durante los últimos cuatro años, me he centrado en estudiar y especializarme en el ámbito de la Tecnología, específicamente en SMX (Sistemas Microinformáticos y Redes, CFGM) y DAM (Desarrollador de Aplicaciones Multimedia). Durante mi trayectoria académica, he adquirido conocimientos en programación, dedicando especial atención a lenguajes como HTML, CSS y PHP en mis primeros años. En los últimos dos años, he enfocado mis esfuerzos en el aprendizaje de Java, tanto para el desarrollo de aplicaciones de escritorio como para aplicaciones en Android Studio.
+```yaml
+nombre:      Adrià Casas Llorens
+rol:         Full-Stack Web & Mobile Developer
+empresa:     ID·Waste  # casi 2 años · software para gestión de residuos y limpieza viaria
+ubicacion:   Banyoles, Girona 📍
+formacion:   [DAM, SMX]
+filosofia:   "La seguridad no es un paso final, es parte de cómo construyo."
+ahora_mismo: 
+  - Desarrollando W·Route, W·Task, W·Link, W·Data, W·City e ID·Soft
+  - Cerrando redes: de accesos abiertos a IP + VPN
+  - Exprimiendo índices en MySQL 8 en producción
+fun_fact:    Hice una app Android entera porque perdía el mando del ventilador 🌀
+```
 
+<!-- ══════════════════════════ STACK ══════════════════════════ -->
 
-## Tecnologías:
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-</br>
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-</br>
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
-[![PHP](https://img.shields.io/badge/php-4285F4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![ANGULAR](https://img.shields.io/badge/angular-E4405F?style=for-the-badge&logo=angular&logoColor=red&labelColor=101010)]()
-</br>
-[![IONIC](https://img.shields.io/badge/ionc-007396?style=for-the-badge&logo=ionic&logoColor=blue&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-Y alguna más...
-## Contacto y apoyo:
+## 🛠️ Stack
 
-[![Email](https://img.shields.io/badge/adriacasas48@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:adriacasas48@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,kotlin,swift,java,python&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,mysql,firebase,mongodb,docker,linux,raspberrypi,git&perline=8" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,nginx,bash,github,vscode,idea,arduino&perline=8" />
+</p>
 
-[![BuyMeACoffee](https://img.shields.io/badge/VIsita-LearnTrack-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.learntrack.cat)
+<!-- ══════════════════════════ ID·WASTE ══════════════════════════ -->
+
+## 💼 Qué hago en ID·Waste
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Producto
+- Plataforma completa: **W·Route, W·Task, W·Link, W·Data, W·City, ID·Soft**
+- **Web:** PHP + JavaScript sobre framework propio
+- **Android:** Kotlin · **iOS:** Swift
+- Integraciones con sistemas de empresas externas
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Infraestructura
+- **AWS:** EC2, RDS Aurora / MySQL 8, RDS Proxy
+- Grupos de seguridad, **OpenVPN**, DNS en **Cloudflare**
+- Migración de accesos abiertos a red restringida por IP + VPN
+- Esquemas, queries e índices en producción real
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🗺️ Ver cómo pienso una arquitectura</b> (clic para desplegar)</summary>
+<br/>
+
+```mermaid
+flowchart LR
+    U([📱 Apps & Web]) --> CF[☁️ Cloudflare DNS]
+    CF --> EC2[🖥️ EC2]
+    DEV([👨‍💻 Equipo]) -- OpenVPN --> VPN[🔐 VPN]
+    VPN --> EC2
+    EC2 -- Security Group --> PX[🔀 RDS Proxy]
+    PX --> DB[(🗄️ Aurora MySQL 8)]
+    style DB fill:#2c5364,color:#fff
+    style VPN fill:#203a43,color:#fff
+```
+
+Solo se habla quien tiene que hablarse. Todo lo demás, cerrado.
+
+</details>
+
+<!-- ══════════════════════════ PROYECTOS ══════════════════════════ -->
+
+## 🚀 Proyectos personales
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 IRBlast
+Mando IR universal para Android. Emisor IR del móvil **o** un ESP32 por WiFi que captura las señales del mando original.
+
+`Kotlin` `MVVM` `Room` `StateFlow` `Material 3` `ESP32`
+
+> 19/19 botones configurados. Mando físico en el cajón para siempre.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [adriacasas.es](https://adriacasas.es)
+Portfolio rehecho desde cero con API REST propia, MySQL y tres idiomas (CA · ES · EN). Desplegado con Docker + Cloudflare Tunnel.
+
+`PHP` `MySQL` `JavaScript` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍓 Homelab
+Raspberry Pi 24/7 sustituyendo un servidor dedicado: portfolio, Plex, nube privada y Pi-hole. Sin abrir puertos en el router.
+
+`Linux` `UFW` `OpenVPN` `Cloudflared` `Pi-hole`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 [LearnTrack](https://www.learntrack.cat)
+Ganador del **premio Jordi Pujiula** (PEHOC) en Ciencias Aplicadas y Tecnología.
+
+`Premio` `Proyecto en equipo`
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════ SNAKE ══════════════════════════ -->
+
+## 🐍 Mis contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/casasadria/casasadria/output/github-snake-dark.svg" />
+    <img alt="Serpiente comiéndose las contribuciones" src="https://raw.githubusercontent.com/casasadria/casasadria/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- ══════════════════════════ PIE ══════════════════════════ -->
+
+<p align="center">
+  <img src="./footer.svg" width="100%" />
+</p>
